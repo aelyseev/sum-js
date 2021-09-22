@@ -13,7 +13,7 @@
     "release": "semantic-release"
   },
   "config": {
-    "git-tag-version": true
+    "git-tag-version": false
   },
   "devDependencies": {
     "@babel/cli": "^7.15.7",
