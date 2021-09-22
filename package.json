@@ -1,5 +1,5 @@
 {
-  "name": "sumjs",
+  "name": "sum-test-js",
   "version": "1.0.0",
   "description": "Sum 2 numbers",
   "main": "dist/index.js",
