@@ -1,6 +1,6 @@
 {
   "name": "sum-test-js",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Sum 2 numbers",
   "main": "dist/index.js",
   "repository": "git@github.com:aelyseev/sum-js.git",
