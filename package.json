@@ -11,6 +11,9 @@
     "prepare": "npm run build",
     "build": "babel src/index.js --out-file dist/index.js"
   },
+  "config": {
+    "git-tag-version": true
+  },
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
