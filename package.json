@@ -9,9 +9,7 @@
   "private": false,
   "scripts": {
     "prepare": "npm run build",
-    "postpublish": "node postpublish.js",
-    "build": "babel src/index.js --out-file dist/index.js",
-    "release": "semantic-release"
+    "build": "babel src/index.js --out-file dist/index.js"
   },
   "config": {
     "git-tag-version": false
